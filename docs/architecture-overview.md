@@ -62,5 +62,5 @@ src/
 
 Para consultar detalhadamente os padrões estabelecidos:
 
-* 🚩 **Feature Flags & Governança:** Veja a [Documentação de Feature Flags](file:///Users/marcustorres/Desktop/curso-aws-com-terraform/frontend-architecture-docs/docs/feature-flags.md)
-* 📋 **Template de Pull Request:** Veja o [PULL_REQUEST_TEMPLATE.md](file:///Users/marcustorres/Desktop/curso-aws-com-terraform/frontend-architecture-docs/.github/PULL_REQUEST_TEMPLATE.md)
+* 🚩 **Feature Flags & Governança:** Veja a [Documentação de Feature Flags](./feature-flags.md)
+* 📋 **Template de Pull Request:** Veja o [PULL_REQUEST_TEMPLATE.md](../.github/PULL_REQUEST_TEMPLATE.md)
